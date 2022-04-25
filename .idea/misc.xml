@@ -5,6 +5,11 @@
       <map>
         <entry key="..\:/Users/GGPR/AndroidStudioProjects/GreenWallet/app/src/main/res/drawable/ic_launcher_background.xml" value="0.201" />
         <entry key="..\:/Users/GGPR/AndroidStudioProjects/GreenWallet/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/GGPR/Documents/Producto/android/android-studio-2021.1.1.23-windows/Projects/greenWallet/app/src/main/res/layout/activity_main.xml" value="0.3763586956521739" />
+        <entry key="..\:/Users/GGPR/Documents/Producto/android/android-studio-2021.1.1.23-windows/Projects/greenWallet/app/src/main/res/layout/activity_send_balance.xml" value="0.3763586956521739" />
+        <entry key="..\:/Users/GGPR/Documents/Producto/android/android-studio-2021.1.1.23-windows/Projects/greenWallet/app/src/main/res/layout/content_send_balance.xml" value="0.3763586956521739" />
+        <entry key="..\:/Users/GGPR/Documents/Producto/android/android-studio-2021.1.1.23-windows/Projects/greenWallet/app/src/main/res/layout/fragment_first.xml" value="0.3763586956521739" />
+        <entry key="..\:/Users/GGPR/Documents/Producto/android/android-studio-2021.1.1.23-windows/Projects/greenWallet/app/src/main/res/layout/fragment_second.xml" value="0.3763586956521739" />
       </map>
     </option>
   </component>
